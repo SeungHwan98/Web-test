@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ServerConfig>
+	<Port>8080</Port>
+	<MaxContentLength>107374182400</MaxContentLength>
+</ServerConfig>
